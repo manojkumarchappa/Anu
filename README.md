@@ -1,0 +1,2 @@
+# Anu
+setting up git
